@@ -1,0 +1,57 @@
+[
+  {
+    "pregunta": "¿Cuál es la política de devoluciones?",
+    "respuesta": "Aceptamos devoluciones dentro de los 15 días posteriores a la compra con comprobante válido. La planta debe estar en el mismo estado en que fue entregada.",
+    "tema": "devoluciones"
+  },
+  {
+    "pregunta": "¿Qué pasa si mi planta llega dañada?",
+    "respuesta": "Debes reportarlo dentro de las primeras 48 horas con fotos de la planta y del embalaje. Gestionaremos el reemplazo o reembolso sin coste adicional.",
+    "tema": "devoluciones"
+  },
+  {
+    "pregunta": "¿Cómo funciona el cambio de producto?",
+    "respuesta": "El cambio de producto se gestiona dentro de los 15 días desde la compra, sujeto a stock disponible y al estado del artículo.",
+    "tema": "devoluciones"
+  },
+  {
+    "pregunta": "¿Cuánto tarda el envío estándar?",
+    "respuesta": "El envío estándar tarda entre 3 y 5 días hábiles en territorio nacional. Las plantas se envían en embalaje especial para garantizar su llegada en buen estado.",
+    "tema": "envios"
+  },
+  {
+    "pregunta": "¿Ofrecen envío exprés?",
+    "respuesta": "Sí, disponemos de envío exprés con entrega estimada en 24-48 horas según zona. Recomendado especialmente para plantas delicadas.",
+    "tema": "envios"
+  },
+  {
+    "pregunta": "¿Realizan envíos internacionales?",
+    "respuesta": "Actualmente no realizamos envíos internacionales debido a las restricciones fitosanitarias para el transporte de plantas vivas.",
+    "tema": "envios"
+  },
+  {
+    "pregunta": "¿Cuáles son los métodos de pago disponibles?",
+    "respuesta": "Aceptamos tarjetas de crédito, débito, transferencia bancaria y pago digital autorizado.",
+    "tema": "pagos"
+  },
+  {
+    "pregunta": "¿Puedo pagar en cuotas?",
+    "respuesta": "Sí, el pago en cuotas está disponible para compras superiores a 50 € con entidades financieras participantes.",
+    "tema": "pagos"
+  },
+  {
+    "pregunta": "¿Cuál es el horario de atención al cliente?",
+    "respuesta": "Nuestro equipo atiende de lunes a sábado de 9:00 a 19:00, excepto festivos.",
+    "tema": "horarios"
+  },
+  {
+    "pregunta": "¿Ofrecen asesoramiento sobre el cuidado de plantas?",
+    "respuesta": "Sí, nuestros expertos pueden orientarte sobre riego, luz, temperatura y sustrato según la planta adquirida. Contacta con nosotros por teléfono o formulario.",
+    "tema": "cuidados"
+  },
+  {
+    "pregunta": "¿Las plantas tienen garantía?",
+    "respuesta": "Garantizamos la calidad de todas las plantas en el momento de la entrega. Si la planta llega en malas condiciones, la reponemos sin coste adicional.",
+    "tema": "garantia"
+  }
+]
