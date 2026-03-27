@@ -206,3 +206,7 @@ make tf-check           # terraform fmt + validate
 
 MIT · by **Hiberus Tecnología**
 
+### TODO:
+
+- [ ] A veces mete la moneda como dólares
+- [ ] Verificar que los tests sirven para nuestro agente
