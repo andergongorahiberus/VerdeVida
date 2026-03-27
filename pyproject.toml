@@ -3,9 +3,9 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "techshop-agent"
+name = "verde_vida_agent"
 version = "0.1.0"
-description = "Agente de atención al cliente para TechShop - Curso LLMOps"
+description = "Agente de atención al cliente para Verde Vida - Curso LLMOps"
 readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
@@ -50,11 +50,11 @@ dev = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/example/techshop-agent"
-Repository = "https://github.com/example/techshop-agent"
+Homepage = "https://github.com/example/verde_vida_agent"
+Repository = "https://github.com/example/verde_vida_agent"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/techshop_agent"]
+packages = ["src/verde_vida_agent"]
 
 [tool.ruff]
 line-length = 100

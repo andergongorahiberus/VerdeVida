@@ -2571,7 +2571,7 @@ wheels = [
 ]
 
 [[package]]
-name = "techshop-agent"
+name = "verde_vida_agent"
 version = "0.1.0"
 source = { editable = "." }
 dependencies = [
