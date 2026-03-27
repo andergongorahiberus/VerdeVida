@@ -143,7 +143,7 @@ Streamlit **no** vigila los paquetes instalados. Si modificas el código fuente 
 | `src/techshop_agent/evaluation/*` | Evaluadores, dataset, runner | `Ctrl+C` + relanzar |
 | `.env` | Credenciales AWS / Langfuse | `Ctrl+C` + relanzar |
 
-**¿Por qué?** El paquete `techshop-agent` se importa una vez al arrancar. Las ediciones en `src/` no se reflejan hasta que Python vuelve a importar el módulo (= reiniciar).
+**¿Por qué?** El paquete `verde_vida_agent` se importa una vez al arrancar. Las ediciones en `src/` no se reflejan hasta que Python vuelve a importar el módulo (= reiniciar).
 
 ### Cómo reiniciar
 

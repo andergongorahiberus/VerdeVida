@@ -1,4 +1,4 @@
-# TechShop Agent — Interfaz Streamlit
+# Verde-Vida Agent — Interfaz Streamlit
 
 Interfaz web para el agente TechShop, con tema **Hiberus Tecnología**.
 
