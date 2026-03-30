@@ -164,7 +164,7 @@ def run_evaluation(
     lf_client = get_client()
 
     result = lf_client.run_experiment(
-        name=f"techshop-eval-{label}",
+        name=f"verde-vida-eval-{label}",
         description=f"Evaluation of prompt label '{label}'",
         data=eval_data,
         task=agent_task,
