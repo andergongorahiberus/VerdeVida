@@ -1,10 +1,6 @@
-# LLMOps para AI Engineering — Curso Hiberus Tecnología
+# Verde Vida
 
-Repositorio del curso práctico de **24 horas (3 días)** donde operacionalizas un agente de IA real con los estándares de la industria en 2026.
 
-> **Hilo conductor:** TechShop Agent — asistente de customer service para una tienda de electrónica, construido sobre **AWS Bedrock + Strands Agents**, con **4 fallos deliberados** que descubrirás y corregirás durante el curso.
-
----
 
 ## Índice del repositorio
 
