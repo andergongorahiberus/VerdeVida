@@ -36,7 +36,7 @@ from langfuse import get_client
 
 logger = logging.getLogger(__name__)
 
-PROMPT_NAME = "techshop-system-prompt"
+PROMPT_NAME = "verde-vida-system-prompt"
 
 
 def promote_prompt(
