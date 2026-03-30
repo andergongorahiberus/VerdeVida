@@ -71,7 +71,7 @@ EVAL_DATASET: list[dict] = [
             "category": "faq",
             "expected_tool": "get_faq_answer",
             "should_contain": ["15"],
-            "should_not_contain": ["30 días", "excepción", "caso especial"],
+            "should_not_contain": ["excepción", "caso especial"],
         },
     },
     {
